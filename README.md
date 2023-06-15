@@ -6,7 +6,6 @@ Flutter and Android developer
 
 * 🌍  I'm based in Mashhad,IRI
 * ✉️  You can contact me at [aliaynechiyan@gmail.com](mailto:aliaynechiyan@gmail.com)
-* 🧠  I'm learning solidity smart contract
 * 🤝  I'm open to collaborating on mobile developing
 
 <a href="https://www.twitter.com/AliAynechian" target="_blank" rel="noreferrer"><img
